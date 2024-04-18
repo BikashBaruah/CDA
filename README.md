@@ -1,2 +1,1 @@
-# CDA
-This is the code for our proposed algorithm, density based community detection algorithm.
+This section presents the code for our proposed density-based community detection algorithm. The datasets employed in this study are accessible through NCBI, with the corresponding URL and dataset IDs detailed in the manuscript. Following this, raw datasets undergo meticulous preprocessing, after which the refined data is utilized within our algorithmic framework. A comprehensive description of the dataset preprocessing methodology is elaborated upon within the manuscript. 
